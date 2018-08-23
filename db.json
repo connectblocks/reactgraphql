@@ -1,0 +1,15 @@
+{
+    "users": [
+        {"id":"12", "firstName": "john", "age": 18, "companyId": "1"},
+        {"id":"11", "firstName": "henry", "age": 9, "companyId": "2"},
+        {"id":"13", "firstName": "michelle", "age": 18, "companyId": "2" },
+        {"id":"14", "firstName": "emily", "age": 9, "companyId": "3" }
+    ],
+
+    "companies": [
+        {"id":"1", "name": "microsoft", "description": "operating system" },
+        {"id":"2", "name": "amazon", "description": "retail" },
+        {"id":"3", "name": "ibm", "description": "enterprise software" }
+    ]
+
+}
